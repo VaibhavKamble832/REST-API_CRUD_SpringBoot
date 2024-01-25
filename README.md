@@ -7,3 +7,4 @@
 <p><b>-Postman Integration: </b>Test the application's functionality seamlessly using Postman for API endpoint execution.</p>
 <p><b>-Database Management: </b>Utilize SQL for efficient and organized storage and retrieval of student data.</p>
 <h2>Technologies Used:</h2>
+<p><b>Spring Boot:</b> Facilitates rapid development and easy configuration of the backend.</p>
