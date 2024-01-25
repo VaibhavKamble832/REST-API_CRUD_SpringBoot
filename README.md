@@ -9,3 +9,4 @@
 <h2>Technologies Used:</h2>
 <p><b>Spring Boot:</b> Facilitates rapid development and easy configuration of the backend.</p>
 <p><b>SQL:</b> Manage student data efficiently with a relational database.</p>
+<p><b>Postman: </b> Test and validate API endpoints for smooth server execution.</p>
