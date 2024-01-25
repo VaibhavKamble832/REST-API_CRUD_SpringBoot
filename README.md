@@ -5,3 +5,4 @@
 <p><b>-Student Module: </b>Manage student information with CRUD operations, including creating, updating, and deleting student records.</p>
 <p><b>-RESTful API: </b> A well-structured API architecture following REST principles, ensuring scalability and maintainability.</p>
 <p><b>-Postman Integration: </b>Test the application's functionality seamlessly using Postman for API endpoint execution.</p>
+<p><b>-Database Management: </b>Utilize SQL for efficient and organized storage and retrieval of student data.</p>
